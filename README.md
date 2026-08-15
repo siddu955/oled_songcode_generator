@@ -3,7 +3,8 @@
 
 Stop guessing timestamps. LYRICODE is an end-to-end Python pipeline that takes an `.mp3` and a `.txt` file, isolates the vocals, aligns every single word to the exact millisecond, and generates a ready-to-flash Arduino `.ino` file. 
 
-![Demo GIF Placeholder](https://via.placeholder.com/800x400.png?text=Add+Your+OLED+Demo+GIF+Here!)
+
+<img width="400" height="711" alt="oled" src="https://github.com/user-attachments/assets/775d64a7-9468-4192-896b-93e8e7bc5230" />
 
 ## ✨ Why it's awesome
 * 🤖 **AI-Powered:** Uses Meta's **Demucs** (vocal isolation), **WhisperX** (forced alignment), and **Librosa** (DSP audio snapping).
